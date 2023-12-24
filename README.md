@@ -1,2 +1,3 @@
 # gityaron
+In this project we manage shopping mall...
 שיעור הדגמה לעבודה עם גיט
